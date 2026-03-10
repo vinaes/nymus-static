@@ -1,0 +1,29 @@
+[
+  {
+    "id": "qwen3-4b-q4_k_m",
+    "name": "Qwen3 4B (Q4_K_M)",
+    "displayName": "Qwen3 Large",
+    "description": "model_desc_large",
+    "filename": "Qwen3-4B-Q4_K_M.gguf",
+    "sizeBytes": 2600000000,
+    "downloadURL": "https://huggingface.co/unsloth/Qwen3-4B-GGUF/resolve/main/Qwen3-4B-Q4_K_M.gguf"
+  },
+  {
+    "id": "qwen3-1.7b-q4_k_m",
+    "name": "Qwen3 1.7B (Q4_K_M)",
+    "displayName": "Qwen3 Medium",
+    "description": "model_desc_medium",
+    "filename": "Qwen3-1.7B-Q4_K_M.gguf",
+    "sizeBytes": 1110000000,
+    "downloadURL": "https://huggingface.co/unsloth/Qwen3-1.7B-GGUF/resolve/main/Qwen3-1.7B-Q4_K_M.gguf"
+  },
+  {
+    "id": "qwen3-0.6b-q4_k_m",
+    "name": "Qwen3 0.6B (Q4_K_M)",
+    "displayName": "Qwen3 Compact",
+    "description": "model_desc_compact",
+    "filename": "Qwen3-0.6B-Q4_K_M.gguf",
+    "sizeBytes": 400000000,
+    "downloadURL": "https://huggingface.co/unsloth/Qwen3-0.6B-GGUF/resolve/main/Qwen3-0.6B-Q4_K_M.gguf"
+  }
+]
