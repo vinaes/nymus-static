@@ -3,7 +3,10 @@
     "id": "qwen3-4b-q4_k_m",
     "name": "Qwen3 4B (Q4_K_M)",
     "displayName": "Qwen3 Large",
-    "description": "model_desc_large",
+    "descriptions": {
+      "en": "Best quality. High RAM usage — may cause crashes with voice mode or large context",
+      "ru": "Лучшее качество. Высокий расход RAM — возможны вылеты с голосовым режимом или большим контекстом"
+    },
     "filename": "Qwen3-4B-Q4_K_M.gguf",
     "sizeBytes": 2600000000,
     "downloadURL": "https://huggingface.co/unsloth/Qwen3-4B-GGUF/resolve/main/Qwen3-4B-Q4_K_M.gguf"
@@ -12,7 +15,10 @@
     "id": "qwen3-1.7b-q4_k_m",
     "name": "Qwen3 1.7B (Q4_K_M)",
     "displayName": "Qwen3 Medium",
-    "description": "model_desc_medium",
+    "descriptions": {
+      "en": "Good balance of quality and speed. Recommended for most devices",
+      "ru": "Хороший баланс качества и скорости. Рекомендуется для большинства устройств"
+    },
     "filename": "Qwen3-1.7B-Q4_K_M.gguf",
     "sizeBytes": 1110000000,
     "downloadURL": "https://huggingface.co/unsloth/Qwen3-1.7B-GGUF/resolve/main/Qwen3-1.7B-Q4_K_M.gguf"
@@ -21,7 +27,10 @@
     "id": "qwen3-0.6b-q4_k_m",
     "name": "Qwen3 0.6B (Q4_K_M)",
     "displayName": "Qwen3 Compact",
-    "description": "model_desc_compact",
+    "descriptions": {
+      "en": "Fast and lightweight. Lower quality but works smoothly on any device",
+      "ru": "Быстрая и лёгкая. Качество ниже, но работает плавно на любом устройстве"
+    },
     "filename": "Qwen3-0.6B-Q4_K_M.gguf",
     "sizeBytes": 400000000,
     "downloadURL": "https://huggingface.co/unsloth/Qwen3-0.6B-GGUF/resolve/main/Qwen3-0.6B-Q4_K_M.gguf"
